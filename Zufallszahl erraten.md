@@ -1,6 +1,6 @@
 # Zufallszahl erraten
 
-## Aufgabenstllung und Ziele
+## Aufgabenstellung und Ziele
 
 Im Lernatelier programmierten wir ein kleines Spiel, in dem man eine Zufallszahl erraten kann. Ich werde Ihnen probieren, zu erklären, wie Sie auch so ein Programm erstellen können.
 
@@ -24,8 +24,8 @@ Hier zeige ich die Loop und Try-catch Funktionen meines Programmes
 ## Verifikation + Reflektion 
 
 **Reflektion**:
-Ich hatte Mühe mit dem Screenshot, da ich nicht wusste wie ich es hier aufladen kann
-VBV: Nächstes Mal werde ich das Bild direkt auf github aufladen.
+Ich hatte Mühe mit der neuer Benutzeringabe, weil ich nicht wusste, wie ich danach fragen kann.
+VBV: In der Zukunft will ich die gebrauchten Codes schneller finden (nachfragen/googeln etc.).
 
 **Verifikation**:
 Ziel 1: Ich habe meinem Pultnachbar mein Portfolio gezeigt, *erreicht, jedoch hatte er gesagt, es wäre besser hätte ich die Funktion erklärt.*
