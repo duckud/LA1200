@@ -82,36 +82,6 @@ namespace number_guessing
                 Console.ReadKey();
 
             }
-            
-           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         }
 
